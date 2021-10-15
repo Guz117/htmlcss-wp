@@ -41,6 +41,14 @@ html {
     border-right: 1px solid black;
 }
 
+ul{
+    list-style-type: none;
+}
+
+li{
+    display: inline;
+}
+
 a {
     margin-right: 10px;
     color: #a3a3a3;
